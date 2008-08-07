@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2194"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/saturn_vk/Projects/themes/darkness-entrance/images"
+   sodipodi:docname="down_arrow.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/saturn_vk/Projects/themes/darkness-entrance/images/down_arrow.png"
+   inkscape:export-xdpi="66.290001"
+   inkscape:export-ydpi="66.290001">
+  <defs
+     id="defs2196" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="309.06492"
+     inkscape:cy="613.47772"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="872"
+     inkscape:window-height="632"
+     inkscape:window-x="422"
+     inkscape:window-y="318" />
+  <metadata
+     id="metadata2199">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#3b7ab9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.39399999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2218"
+       width="63.63961"
+       height="12.626906"
+       x="501.01547"
+       y="75.396652"
+       ry="6.3134532"
+       transform="matrix(0.657714,0.7532677,-0.7532677,0.657714,0,0)" />
+    <rect
+       transform="matrix(0.657714,0.7532677,-0.7532677,0.657714,0,0)"
+       ry="6.3134532"
+       y="75.613258"
+       x="500.82632"
+       height="12.626906"
+       width="63.639606"
+       id="rect5136"
+       style="fill:#3b7ab9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.39399999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="matrix(-0.650766,0.7592784,-0.7922247,-0.6102295,0,0)"
+       ry="6.3804312"
+       y="-548.4856"
+       x="132.52675"
+       height="12.760862"
+       width="63.616299"
+       id="rect5139"
+       style="fill:#3b7ab9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.39399999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-16.908832"
+       inkscape:transform-center-y="-19.066254" />
+    <rect
+       transform="matrix(0.657714,0.7532677,-0.7532677,0.657714,0,0)"
+       ry="6.3134532"
+       y="55.858738"
+       x="478.20248"
+       height="12.626906"
+       width="63.639606"
+       id="rect5141"
+       style="fill:#3b7ab9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.39399999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="matrix(-0.650766,0.7592784,-0.7922247,-0.6102295,0,0)"
+       ry="6.3804312"
+       y="-528.9137"
+       x="108.69981"
+       height="12.760862"
+       width="63.616299"
+       id="rect5143"
+       style="fill:#3b7ab9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.39399999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-16.908832"
+       inkscape:transform-center-y="-19.066254" />
+  </g>
+</svg>
